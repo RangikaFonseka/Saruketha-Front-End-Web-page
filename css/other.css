@@ -1,0 +1,135 @@
+*{ margin: 0; padding: 0; }
+a { text-decoration: none;}
+.clearfix{
+	overflow: auto;
+}
+.wrapper{
+	margin: auto;
+	width: 1000px;
+	background-color: #f2ffe6;
+}
+
+.toptextbar{
+width: 1000px;
+}
+
+.toptext{
+text-align: center;
+background: #99ff99;
+
+}
+.toptext h1{
+	font-style: normal;
+	font-weight: normal;
+}
+.contact-text{
+text-align: center;
+} 
+nav{ 
+	margin: 10px;
+	background: black;
+	text-align: center;
+	border-radius: 10px;
+
+}
+nav ul{
+	list-style-type: none;
+}
+nav ul li {
+	display: inline;
+
+}
+nav ul li a {
+	color: #fff;
+	margin: 10px 40px 10px 40px;
+
+
+
+	display: inline-block;
+}
+nav ul li a:hover{
+	color: red;
+}
+.item {
+width: 900;
+
+
+}
+.item1{
+	margin-top: 50px;
+ width: 400;
+ float: left;
+ margin-left: 50px;
+}
+.item2{
+
+ width: 400;
+ float: left;
+ margin-top: 55px;
+ margin-left: 50px;
+}
+.item3{
+
+ width: 400;
+ float: left;
+ margin-top: 55px;
+ margin-left: 50px;
+}
+.item4{
+
+ width: 400;
+ float: left;
+ margin-top: 55px;
+ margin-left: 70px;
+}
+.item5{
+
+ width: 400;
+ float: left;
+ margin-top: 55px;
+ margin-left: 70px;
+}
+
+
+.item6{
+
+ width: 400;
+ float: left;
+ margin-top: 55px;
+ margin-left: 50px;
+}
+.item7{
+
+ width: 400;
+ float: left;
+ margin-top: 55px;
+ margin-left: 50px;
+}
+.item8{
+
+ width: 400;
+ float: left;
+ margin-top: 55px;
+ margin-left: 50px;
+}
+.item9{
+
+ width: 400;
+ float: left;
+ margin-top: 55px;
+ margin-left: 50px;
+}
+.item10{
+
+ width: 400;
+ float: left;
+ margin-top: 55px;
+ margin-left: 50px;
+}
+.item11{
+
+ width: 400;
+ float: left;
+ margin-top: 55px;
+ margin-left: 50px;
+}
